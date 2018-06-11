@@ -18,4 +18,4 @@ end
 izzy=Dog.new
 puts izzy.name="izzy"
 puts izzy.breed= "american bulldog"
-
+izzy.bark
